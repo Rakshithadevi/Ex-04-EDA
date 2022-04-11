@@ -68,6 +68,32 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ```
 ## output:
+![image](https://user-images.githubusercontent.com/94165326/162787563-030da021-e928-424b-8e0f-e67a60f6c46a.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787624-b58a0618-26e0-42c1-ba2b-76d3e0a94e54.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787663-eae9b014-fa5c-475d-b02b-e0f5390f48bf.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787705-cf4025ba-a65a-4a01-a45d-7266f68e40c7.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787763-5f3c66be-2f63-413a-96b7-6bb824479886.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787813-20fd6fbf-5868-43fe-9c53-ddc6786d6356.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787864-38e6c657-a583-47b8-8be1-5b4c60e09f23.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787921-6feeb826-a0b3-4b9a-8ba1-580afd46f1ca.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162787998-271c5629-5e31-4ee7-ae82-75e341b45c5d.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162788033-659989f0-4c87-49c1-9001-4b09544e7508.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162788097-365fb680-a834-44ca-857d-4233b1dd82d6.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162788160-e7b4ffe3-4e03-42e3-889b-104139441bd7.png)
+
+![image](https://user-images.githubusercontent.com/94165326/162788213-9977cec4-48c0-41f4-b6c2-c7f29c8f5e3d.png)
+
 
 
 ## RESULT
